@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- The name of the package that will hold the Assistant role by default. -->
+    <string name="config_defaultAssistant">com.google.android.googlequicksearchbox</string>
+    <bool name="config_allowDisablingAssistDisclosure">true</bool>
+</resources>
