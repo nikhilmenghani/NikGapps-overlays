@@ -35,4 +35,6 @@
 
     <string name="def_backup_transport">com.google.android.gms/.backup.BackupTransportService</string>
 
+    <string name="metadata_sync_pacakge">com.google.android.gms</string>
+
 </resources>
